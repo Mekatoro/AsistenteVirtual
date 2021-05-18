@@ -42,3 +42,5 @@ Otras como datetime, os, subprocess, time y random vienen por defecto en la pack
 # Finalmente
 Aún falta agregarle un montón de cosas y pulir mejor el código, ya se corregirá con el tiempo, tengan paciencia.
 La idea es implementar POO para un mejor mantenimiento para próximas versiones.
+
+## Si te gusta el código puedes darme una estrellita
